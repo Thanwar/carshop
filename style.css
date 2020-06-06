@@ -1,0 +1,95 @@
+#navbarNav{
+    justify-content: space-between !important;
+}
+
+#nav{
+    background-color: black;
+}
+#nav h1{
+    color: white !important;
+}
+
+.nav-link{
+    color: white !important;
+}
+
+#options ul li{
+    font-size: larger;
+}
+
+#wel
+{
+    font-size: 150px;
+    margin: 100px 50px;
+    text-shadow: black;
+}
+
+#ap{
+    text-align: center;
+}
+
+.buy
+{
+    background-color: black;
+    color: white;
+    padding: 10px 30px;
+    border-radius: 20px;
+}
+
+#cards{
+    display: flex;
+    margin: 20px 20px 40px 20px !important;
+    justify-content: space-around;
+}
+
+#cards2{
+    display: flex;
+    margin: 20px 20px 20px 20px !important;
+    justify-content: space-around;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    padding: 20px 20px;
+}
+
+#copy{
+    padding-left: 20px;
+}
+
+
+#form{
+    background-color: whitesmoke;
+    margin: 100px 500px 120px 500px;
+    padding: 20px 10px;
+}
+
+#send
+{
+    background-color: black;
+    color: white;
+    padding: 10px 30px;
+    border-radius: 20px;
+}
+
+.input{
+    margin-bottom: 10px;
+}
+
+
+#contactbody{
+    background-image:url(images/conb1.jpg);
+}
+
+#aboutbody{
+    background-image:url(images/about.jpg);
+}
+
+#aboutdes{
+    text-align: center;
+    color: white;
+    margin: 100px 500px 100px 500px;
+    padding: 20px 10px;
+    font-size: larger;
+}
